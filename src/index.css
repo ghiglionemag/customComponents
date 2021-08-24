@@ -2,10 +2,11 @@
   box-sizing: border-box;
 }
 body {
+  font-family: "Roboto";
   margin: 0px;
 }
 
-.content{
+.content {
   display: flex;
   flex-direction: column;
   height: 1000px;
@@ -13,9 +14,4 @@ body {
   margin: 0px auto;
   padding: 10px;
   justify-content: space-between;
-}
-.title,
-.parrafo,
-.subtitle {
-  font-family: "Roboto";
 }

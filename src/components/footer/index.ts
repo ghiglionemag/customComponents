@@ -26,7 +26,7 @@ export function FooterComponent() {
   
         var div = document.createElement("div");
         div.innerHTML = `
-            <h2 class="footer-title">footer</2>
+            <h2 class="footer-title">Footer</2>
         `;
         div.classList.add("footer-content");
   
